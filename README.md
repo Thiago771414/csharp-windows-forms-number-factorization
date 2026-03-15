@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/windowsForm.png" width="900">
+</p>
+
+---
+
 # Overview
 
 This project demonstrates the development of a **Windows Forms desktop application in C#** designed to perform **numeric decomposition (factorization)**.
