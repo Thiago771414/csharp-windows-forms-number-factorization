@@ -49,12 +49,15 @@ The system processes the number and displays the decomposition results dynamical
 
 ## Number Input and Decomposition
 
-![Interface](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/forms02.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms02.jpg">
+</p>
 
 ## Result Visualization
 
-![Interface](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/forms03.jpg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms03.jpg">
+</p>
 ---
 
 # Architecture
