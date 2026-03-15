@@ -58,6 +58,7 @@ The system processes the number and displays the decomposition results dynamical
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms03.jpg" width="400">
 </p>
+
 ---
 
 # Architecture
