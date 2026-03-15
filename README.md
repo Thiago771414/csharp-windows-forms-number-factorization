@@ -50,13 +50,13 @@ The system processes the number and displays the decomposition results dynamical
 ## Number Input and Decomposition
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms02.jpg">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms02.jpg" width="400">
 </p>
 
 ## Result Visualization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms03.jpg">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/forms03.jpg" width="400">
 </p>
 ---
 
